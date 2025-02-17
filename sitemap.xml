@@ -2,382 +2,406 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/eventing/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/eventing/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/eventing/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/eventing/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/eventing/v1/broker/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/eventing/v1/broker/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/eventing/v1/trigger/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/eventing/v1/trigger/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/eventing/v1beta1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/eventing/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/eventing/v1beta1/eventType/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/eventing/v1alpha1/eventPolicy/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/eventing/v1beta2/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/eventing/v1beta1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/eventing/v1beta2/eventType/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/eventing/v1beta1/eventType/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/flows/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/eventing/v1beta2/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/flows/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/eventing/v1beta2/eventType/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/flows/v1/parallel/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/eventing/v1beta3/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/flows/v1/sequence/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/eventing/v1beta3/eventType/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/messaging/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/flows/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/messaging/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/flows/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/messaging/v1/channel/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/flows/v1/parallel/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/messaging/v1/subscription/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/flows/v1/sequence/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/sources/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/messaging/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/sources/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/messaging/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/sources/v1/apiServerSource/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/messaging/v1/channel/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/sources/v1/containerSource/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/messaging/v1/subscription/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/sources/v1/pingSource/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/sinks/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/sources/v1/sinkBinding/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/sinks/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/sources/v1beta2/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/sinks/v1alpha1/jobSink/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.11.10/sources/v1beta2/pingSource/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/sources/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/sources/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/eventing/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/sources/v1/apiServerSource/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/eventing/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/sources/v1/containerSource/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/eventing/v1/broker/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/sources/v1/pingSource/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/eventing/v1/trigger/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/sources/v1/sinkBinding/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/eventing/v1beta1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/sources/v1beta2/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/eventing/v1beta1/eventType/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.15.0/sources/v1beta2/pingSource/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/eventing/v1beta2/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/eventing/v1beta2/eventType/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/eventing/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/flows/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/eventing/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/flows/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/eventing/v1/broker/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/flows/v1/parallel/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/eventing/v1/trigger/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/flows/v1/sequence/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/eventing/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/messaging/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/eventing/v1alpha1/eventPolicy/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/messaging/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/eventing/v1beta1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/messaging/v1/channel/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/eventing/v1beta1/eventType/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/messaging/v1/subscription/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/eventing/v1beta2/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/sources/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/eventing/v1beta2/eventType/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/sources/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/eventing/v1beta3/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/sources/v1/apiServerSource/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/eventing/v1beta3/eventType/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/sources/v1/containerSource/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/flows/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/sources/v1/pingSource/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/flows/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/sources/v1/sinkBinding/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/flows/v1/parallel/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/sources/v1beta2/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/flows/v1/sequence/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.12.4/sources/v1beta2/pingSource/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/messaging/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/messaging/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/eventing/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/messaging/v1/channel/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/eventing/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/messaging/v1/subscription/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/eventing/v1/broker/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/sinks/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/eventing/v1/trigger/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/sinks/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/eventing/v1beta1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/sinks/v1alpha1/jobSink/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/eventing/v1beta1/eventType/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/sources/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/eventing/v1beta2/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/sources/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/eventing/v1beta2/eventType/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/sources/v1/apiServerSource/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/flows/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/sources/v1/containerSource/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/flows/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/sources/v1/pingSource/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/flows/v1/parallel/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/sources/v1/sinkBinding/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/flows/v1/sequence/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/sources/v1beta2/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/messaging/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.16.0/sources/v1beta2/pingSource/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/messaging/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/messaging/v1/channel/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/eventing/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/messaging/v1/subscription/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/eventing/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/sources/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/eventing/v1/broker/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/sources/v1/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/eventing/v1/trigger/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/sources/v1/apiServerSource/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/eventing/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/sources/v1/containerSource/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/eventing/v1alpha1/eventPolicy/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/sources/v1/pingSource/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/eventing/v1alpha1/requestReply/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/sources/v1/sinkBinding/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/eventing/v1beta1/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/sources/v1beta2/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/eventing/v1beta1/eventType/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.13.1/sources/v1beta2/pingSource/</loc>
-         <lastmod>2024-03-19</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/eventing/v1beta2/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/eventing/v1beta2/eventType/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/eventing/v1beta3/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/eventing/v1beta3/eventType/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/flows/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/flows/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/flows/v1/parallel/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/flows/v1/sequence/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/messaging/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/messaging/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/messaging/v1/channel/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/messaging/v1/subscription/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sinks/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sinks/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sinks/v1alpha1/integrationSink/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sinks/v1alpha1/jobSink/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sources/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sources/v1/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sources/v1/apiServerSource/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sources/v1/containerSource/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sources/v1/pingSource/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sources/v1/sinkBinding/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sources/v1alpha1/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sources/v1alpha1/integrationSource/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sources/v1beta2/</loc>
+         <lastmod>2025-02-17</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/knative-eventing-libsonnet/1.17.0/sources/v1beta2/pingSource/</loc>
+         <lastmod>2025-02-17</lastmod>
     </url>
 </urlset>
